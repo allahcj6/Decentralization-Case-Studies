@@ -1,2 +1,15 @@
-# Decentralization-Case-Studies
-Decentralization-Case-Studies
+# Web2 vs. Web3 Architecture Compare (Web2 与 Web3 架构对比)
+
+本仓库用于系统地对比传统互联网巨头（Web2）的中心化架构与 Web3 的去中心化解决方案。
+
+本仓库旨在：
+1.  分析存储、计算、身份验证等环节的中心化和去中心化差异。
+2.  记录技术迁移的挑战和潜在机会。
+
+---
+
+## 🆚 查看每日架构对比笔记
+
+所有最新的架构分析和对比案例都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
